@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab2 HWApp2 Calculator</string>
+    <string name="RadioButton1">Addition</string>
+    <string name="RadioButton2">Subtraction</string>
+    <string name="RadioButton3">Multiplication</string>
+    <string name="RadioButton4">Division</string>
+    <string name="TextView1">Choose maths operation:</string>
+    <string name="EditText1">First number</string>
+    <string name="EditText2">Second number</string>
+    <string name="TextView2">Enter the numbers:</string>
+    <string name="TextView3">Result:</string>
+    <string name="EditText3"> </string>
+    <string name="Button1">CALCULATE</string>
+
+</resources>
